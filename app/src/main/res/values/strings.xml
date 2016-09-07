@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Cats Daily Tips</string>
+    <string name="share_with_your">Share with your F</string>
+    <string name="title_activity_tipa_details">TipaDetailsActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="answerBody">Answer</string>
+    <string name="tipBody">The Tip</string>
+    <string name="answerd">Dogs howl back at other animal howls like coyotes and they howl back at high pitch sounds like siren and some people singing “it doesn’t mean your singing is bad it just means you are singing at high pitch”.</string>
+    <string name="tipTitle">Tip Title</string>
+    <string name="questionTitle">Question</string>
+    <string name="why_do_dogs_howl">Why Do Dogs Howl?</string>
+    <string name="your_comments_here">Your Notes Here</string>
+    <string name="cat">cat</string>
+    <string name="title_activity_display_lists"></string>
+    <string name="section_format">Hello World from section: %1$d</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_you_tube">YouTubeActivityX</string>
+    <string name="no_questions_yet">No Questions Yet! \n PULL TO REFRESH</string>
+    <string name="no_recycler_yet">Loading . . .</string>
+    <string name="no_tips_yet">No Tips Yet! \n PULL TO REFRESH</string>
+    <string name="no_favourite_tips_yet">No Favourite Tips Yet!</string>
+    <string name="no_favourite_questions_yet">No Favourite Questions Yet</string>
+    <string name="timer">--:--</string>
+    <string name="by_animalia">By: Animalia</string>
+
+    /* youtube stand alone player string*/
+    <string name="error_thumbnail_view">There was an error initializing the YouTubeThumbnailView (%1$s)</string>
+    <string name="error_player">There was an error initializing the YouTubePlayer (%1$s)</string>
+    <string name="play_video">Play video</string>
+    <string name="play_playlist">Play playlist</string>
+    <string name="play_video_list">Play video list</string>
+    <string name="start_index">Start index</string>
+    <string name="start_time">Start time (sec)</string>
+    <string name="autoplay">Autoplay</string>
+    <string name="lightbox_mode">Lightbox mode</string>
+
+    <string name="title_activity_first_start">FirstStartActivity</string>
+    <string name="next_button">NEXT</string>
+    <string name="skip_button">SKIP</string>
+    <string name="sc1_content"><b>ANSWERING</b> \nQUESTIONS \nABOUT YOUR \n<b>CAT</b> </string>
+    <string name="sc2_content">DAILY <b>TIPS</b> \nAND <b>TRICKS</b> \nABOUT YOUR \n<b>CAT</b> </string>
+    <string name="sc3_content"><b>ACCESS</b>  \nTO ALL OUR \n<b>VIDEOS</b> AND \nCONTENT </string>
+    <string name="red">red</string>
+    <string name="blue">blue</string>
+    <string name="orange">orange</string>
+
+    <string name="invite">Send invitations!</string>
+    <string name="welcome">Invite Friends To Use:</string>
+    <string name="welcome1">Dogs Daily Tips</string>
+    <string name="referrer_hint">Deep link not provided</string>
+    <string name="deep_link_default">Deep link not set</string>
+    <string name="invitation_id_default">Invitation ID not set</string>
+    <string name="invite_friends">Invite Friends</string>
+
+    <string name="invitation_title">Invite your friends to download this terrific APP.</string>
+    <string name="invitation_message">This app is terrific, give it a try!</string>
+    <string name="invitation_deep_link">http://play.google.com/store/apps/details?id=com.animalia.hassan.catssdailytips</string>
+    <string name="only_f_c_this">Only your friends will see this invite.</string>
+
+    <string name="deep_link_fmt">Deep Link: %s</string>
+    <string name="invitation_id_fmt">Invitation ID: %s</string>
+    <string name="sent_invitations_fmt">Sent %d invitations</string>
+    <string name="send_failed">Sending invitations failed</string>
+    <string name="invite_dialog_title">You got an invitation!</string>
+
+    <string name="fbinvite_friends">Invite Facebook Friends</string>
+    <string name="welcomeFB">Invite Facebook Friends</string>
+    <string name="only_FB_F_see">Only your Facebook friends will see\nthis invite.</string>
+    <string name="Invite_freind">Invite Friends</string>
+
+            <string name="action_deep_link">
+        com.google.android.gms.samples.appinvite.DEEP_LINK_ACTION
+    </string>
+    <string name="invitation_custom_image">https://www.animaliatv.co.uk/wp-content/uploads/2016/08/catworldanimalia.png</string>
+    <string name="invitation_cta">DOWNLOAD APP</string>
+    <string name="google_play_services_error">Google Play Services Error</string>
+    <string name="cats_related_info_based_on_medical_references">Cats related Info. based on Medical references</string>
+    <string name="daily_tips">Daily Tips</string>
+    <string name="understand_your_companion">Understand your companion.</string>
+    <string name="if_you_are_not_sure_ask_your_vet">(If you are not sure ask your vet)</string>
+    <string name="top_questions">Top Questions</string>
+    <string name="updated_on_regular_bases">Updated on regular bases.</string>
+    <string name="cat_videos_from_our_youtube_channel">Cat videos from our YouTube Channel.</string>
+    <string name="cat_videos">Cat Videos</string>
+    <string name="about_dialog_text">Cats Daily Tips aims to help the user in the care and support of his or her Cat,
+        doesn’t provide any guarantee for the contents presented by it, and it is not an alternative to veterinary care.\n\n
+        Version: 1.0.0.</string>
+    <string name="ask_doggy_q"> <p> Ask your own Question and the Answer will be delivered directly to you.\n\n
+                                Press the Button below to send us an email with you Question.\n\</p> </string>
+    <string name="email_header"> <p> If in doubt ask and we will let you know if it is a valid question. Waiting to hear from you and thank you for buying our app.\n</p> </string>
+    <string name="not_happy">WE STAND BEHIND THE PRODUCTS WE CREATE.\n\n If you are not happy with your App Please contact us so we can make things right.</string>
+    <string name="ask_a_question">Ask A Kitten Question</string>
+    <string name="email_title">Question from an app User.</string>
+    <string name="cats_daily_tips">Cats Daily Tips</string>
+    <string name="enjoying">Enjoying Cats Daily Tips?</string>
+    <string name="apprating">How about a rating on the app store, then?</string>
+    <string name="contact_us_title">Question from an app User.</string>
+    <string name="Contact_us_subject">Cats daily tips feedback:</string>
+
+</resources>

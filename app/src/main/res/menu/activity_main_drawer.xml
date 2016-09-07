@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group  >
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_daily_tips"
+            android:icon="@drawable/ic_star_black_24dp"
+            android:title="Daily Tips" />
+        <item
+            android:id="@+id/nav_top_questions"
+            android:icon="@drawable/ic_questions_24dp"
+            android:title="Top Questions" />
+        <item
+            android:id="@+id/nav_cat_videos"
+            android:icon="@drawable/ic_play_circle_filled_black_24dp"
+            android:title="Cat Videos" />
+    </group>
+
+    <item android:title="Favourites"
+        >
+        <menu>
+            <item
+                android:id="@+id/nav_fav_tips"
+                android:icon="@drawable/ic_favorite"
+                android:title="My Favourite Tips" />
+
+            <item
+                android:id="@+id/nav_fav_ques"
+                android:icon="@drawable/ic_thumb_up_black_24dp"
+                android:title="My Favourite Ques" />
+        </menu>
+
+    </item>
+
+
+    <item
+        android:id="@+id/nav_app_invite"
+        android:icon="@drawable/ic_app_invite_24dp"
+        android:title="Kitten Invite" />
+
+
+    <group android:id="@+id/group1" >
+
+        <item
+            android:id="@+id/nav_ask_a_question"
+            android:icon="@drawable/ic_ask_a_ques_24dp"
+            android:title="Ask A Question" />
+        <item
+            android:id="@+id/nav_rate_app"
+            android:icon="@drawable/ic_tag_faces_black_24dp"
+            android:title="Do You Have a Min?" />
+        <item
+        android:id="@+id/nav_about"
+        android:icon="@drawable/ic_help_outline_black_24dp"
+        android:title="About" />
+
+    </group>
+
+
+
+</menu>

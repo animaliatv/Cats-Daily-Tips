@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@color/animaliaBGBlue"/>
+
+    <item
+        android:left="42dp"
+        android:top="32dp"
+        android:bottom="15dp"
+        android:gravity="start">
+        <bitmap
+            android:gravity="top"
+            android:src="@drawable/ca_cat"
+            android:tileMode="disabled"/>
+    </item>
+
+ <!--   <item
+        android:left="62dp"
+        android:right="6dp"
+        android:top="5dp"
+        android:bottom="25dp"
+        android:gravity="end">
+        <bitmap
+            android:gravity="top"
+            android:src="@drawable/rockey"
+            android:tileMode="disabled"/>
+    </item>-->
+
+    <item
+        android:left="28dp"
+        android:right="28dp"
+        android:gravity="center_horizontal">
+        <bitmap
+            android:gravity="bottom"
+            android:src="@drawable/splash_animalia_cat"
+            android:tileMode="disabled"/>
+    </item>
+
+
+
+</layer-list>

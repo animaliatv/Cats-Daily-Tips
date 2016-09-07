@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@color/colorPrimaryLight"/>
+
+
+
+    <item
+        android:left="90dp"
+        android:top="60dp"
+        android:bottom="20dp"
+        android:gravity="bottom">
+        <bitmap
+            android:gravity="right"
+            android:src="@drawable/paw1"
+            android:tileMode="disabled"/>
+    </item>
+
+<!--    <item
+        android:right="90dp"
+        android:bottom="60dp"
+        android:gravity="center">
+
+        <bitmap
+            android:gravity="left"
+            android:src="@drawable/paw2"
+            android:tileMode="disabled"/>
+    </item>
+    <item
+
+        android:gravity="fill_horizontal">
+
+        <bitmap
+            android:gravity="left"
+            android:src="@drawable/bg_noise"
+            android:tileMode="repeat"/>
+    </item>-->
+
+</layer-list>

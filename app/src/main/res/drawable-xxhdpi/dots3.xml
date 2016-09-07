@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:drawable="@color/animaliaBGBlue"/>
+
+    <item
+        android:left="6dp"
+        android:right="72dp"
+        android:gravity="start">
+        <bitmap
+            android:gravity="bottom"
+            android:src="@drawable/w_dotss"
+            android:tileMode="disabled"/>
+    </item>
+    <item
+        android:left="24dp"
+        android:right="24dp"
+        android:gravity="center_horizontal">
+        <bitmap
+            android:gravity="bottom"
+            android:src="@drawable/w_dotss"
+            android:tileMode="disabled"/>
+    </item>
+    <item
+        android:left="72dp"
+        android:right="6dp"
+        android:gravity="end">
+        <bitmap
+            android:gravity="bottom"
+            android:src="@drawable/w_dotss1"
+            android:tileMode="disabled"/>
+    </item>
+
+</layer-list>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <color name="colorPrimary">#9822c3</color>
+    <color name="colorPrimaryLight">#bf2cf4</color>
+    <color name="colorPrimaryLightTrans">#80bf2cf4</color>
+    <color name="colorPrimaryDark">#6A1B9A</color>
+    <color name="colorAccent">#00B8D4</color>-->
+    <color name="colorPrimary">#5cc8de</color>
+    <color name="colorPrimaryLight">#d7ecfd</color>
+    <color name="colorPrimaryLightTrans">#8090CAF9</color>
+    <color name="colorPrimaryDark">#0d47a1</color>
+    <color name="colorPrimaryDarkTrans">#83002154</color>
+    <color name="colorAccent">#bf2cf4</color>
+    <color name="animaliaBlueLight">#b8d4e7</color>
+    <color name="animaliaBlue">#70b7e8</color>
+    <color name="animaliaBGBlue">#5cc8de</color>
+    <color name="colorAccentTrans">#0d00B8D4</color>
+    <color name="indigo_300">#7986CB</color>
+    <color name="indigo_50">#E8EAF6</color>
+    <color name="transparent_indigo20">#333F51B5</color>
+    <color name="transparent_indigo50">#CC5C6BC0</color>
+    <color name="card_background">#4d000000</color>
+    <color name="card_text_color_header">#ffffff</color>
+    <color name="tabsScrollColor">#ffffff</color>
+    <color name="toolbarTransparent">#00ffffff</color>
+    <color name="cyan_500">#00BCD4</color>
+    <color name="semi_transparent_black">#4f000000</color>
+    <color name="colorFargBG">#6bc7db</color>
+
+    <color name="black_overlay">#66000000</color>
+
+    <color name="Choices_text_color">#80323232</color>
+
+
+</resources>

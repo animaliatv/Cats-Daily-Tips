@@ -1,0 +1,40 @@
+<android.support.v4.widget.SwipeRefreshLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/swipeContainer"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context="com.animalia.hassan.catsdailytips.fragmentsQues.FragmentQues">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <com.animalia.hassan.catsdailytips.CatsDTRecyclerView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@android:id/list"
+            android:scrollbars="vertical"
+            app:layoutManager="LinearLayoutManager"
+            app:layout_behavior="@string/appbar_scrolling_view_behavior">
+
+        </com.animalia.hassan.catsdailytips.CatsDTRecyclerView>
+
+        <TextView
+            android:id="@android:id/empty"
+            style="?android:attr/textAppearanceLarge"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_gravity="center_vertical|center_horizontal"
+            android:gravity="center_vertical|center_horizontal"
+            android:text="@string/no_questions_yet"
+            android:textAlignment="center"
+            android:textAllCaps="false" />
+
+
+
+</RelativeLayout>
+</android.support.v4.widget.SwipeRefreshLayout>
+
